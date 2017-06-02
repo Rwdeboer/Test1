@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Request</name>
+        <order>100</order>
+        <roles>x_124696_drone_app.request_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-26 10:18:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>47e8d1584f433200d3fe06f18110c77f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Drone request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Drone approval" source="x_124696_drone_app">b22a85dc4f033200d3fe06f18110c70e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Drone approval">b22a85dc4f033200d3fe06f18110c70e</sys_scope>
+        <sys_update_name>sys_app_application_47e8d1584f433200d3fe06f18110c77f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-29 13:23:58</sys_updated_on>
+        <title>Drone request</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

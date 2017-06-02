@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Special_View</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-26 11:40:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6bbba9504f833200d3fe06f18110c790</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Special View</sys_name>
+        <sys_package display_value="Drone approval" source="x_124696_drone_app">b22a85dc4f033200d3fe06f18110c70e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Drone approval">b22a85dc4f033200d3fe06f18110c70e</sys_scope>
+        <sys_update_name>sys_ui_view_6bbba9504f833200d3fe06f18110c790</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-26 11:40:16</sys_updated_on>
+        <title>Special View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
